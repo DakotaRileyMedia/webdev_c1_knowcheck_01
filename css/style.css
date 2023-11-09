@@ -299,6 +299,14 @@ section p {
     color: #74b44a;
 }
 
+.contact-content a {
+    color: #F1F1F1;
+}
+
+.contact-content a:hover {
+    color: #f08527;
+}
+
 footer {
     text-align: center;
 }
